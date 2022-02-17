@@ -1,0 +1,15 @@
+body {
+  text-align: center !important;
+}
+
+header {
+  margin-bottom: 3%;
+}
+
+main {
+  margin: 10px
+}
+
+#passWordHelp {
+  margin-bottom: 20px;
+}
