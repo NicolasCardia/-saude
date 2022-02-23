@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(#141e30, #243b55);
+  font-family: sans-serif;
+}
+
+header {
+  margin-bottom: 3%;
+}
+
+main {
+  margin: 10px
+}
+
+h1 { 
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #465c75;
+}
+
+.form-label { 
+  color: white
+}
+
+.form-check-label {
+  color: white;
+}

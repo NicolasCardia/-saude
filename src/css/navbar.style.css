@@ -1,0 +1,16 @@
+.navbar { 
+    background: linear-gradient(#141e30, #3470b4);
+}
+
+.navbar-brand {
+    color: white 
+}
+
+#HealthTitle {
+    color: black;
+}
+
+#HealthTitle:hover {
+    color: rgb(4, 4, 56);
+    animation-delay: 1s
+}
