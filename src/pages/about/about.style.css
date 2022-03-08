@@ -1,0 +1,47 @@
+body {
+  text-align: center !important;
+  background: linear-gradient(#141e30, #083772); 
+  font-family: sans-serif;
+}
+
+.imageFood {
+  margin-top: 5%;
+  width: 400px;
+  height: 300px;
+}
+
+.featurette-divider {
+  color: white;
+}
+
+.featurette-heading {
+  color: white;
+}
+
+.lead {
+  margin-left: 20px;
+  color: white;
+}
+
+.titleLogIn{
+  margin-top: 8%;
+  color: red;
+}
+
+.subtitleLogIn {
+  color: white;
+  font-size: large;
+}
+
+.btn {
+  width: 200px !important;
+  height: 50px;
+  background-color: #ffffff !important;
+}
+
+.textButton {
+  font-size: 20px;
+}
+
+
+

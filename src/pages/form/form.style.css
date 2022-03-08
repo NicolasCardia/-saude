@@ -4,12 +4,16 @@ html {
 
 body {
   text-align: center !important;
-  background: linear-gradient(#141e30, #243b55);
+  background: linear-gradient(#223252, #234d7e);
   font-family: sans-serif;
 }
 
 header {
   margin-bottom: 3%;
+}
+
+.titleForm {
+  color: white;
 }
 
 #mainForm {
@@ -35,4 +39,8 @@ header {
 
 #passWordHelp {
   margin-bottom: 20px;
+}
+
+.lembrar {
+  color: white;
 }

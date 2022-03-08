@@ -1,5 +1,9 @@
+html {
+  height: 100%;
+}
+
 body {
-  background: linear-gradient(#141e30, #243b55);
+  background: linear-gradient(#223252, #234d7e);
   font-family: sans-serif;
 }
 
@@ -8,16 +12,19 @@ header {
 }
 
 main {
-  margin: 10px
+  margin-top: 10% !important;
+  margin: 25px;
 }
 
-h1 { 
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color: #465c75;
+
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #f6f6f6;
 }
 
-.form-label { 
-  color: white
+.form-label {
+  color: white;
 }
 
 .form-check-label {
